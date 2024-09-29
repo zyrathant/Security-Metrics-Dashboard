@@ -51,6 +51,7 @@ body {
   left: 15%;
   top: 50%;
   transform: translateY(-50%);
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
 }
 
 .left {
@@ -174,6 +175,7 @@ a{
     transform: none;
     background-color: #f3edfc;
     border: none;
+    box-shadow: none;
   }
   .right {
     background-color: #f3edfc;
